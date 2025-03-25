@@ -154,19 +154,11 @@ graph TD
 - Visualization enhancements
 - Error handling improvements
 
-## 📜 License
-
-[Specify your license, e.g., MIT License]
 
 ## 🙏 Acknowledgments
 - Project Gutenberg
 - NLTK Community
 - Python Open Source Community
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open GitHub Issues
-- Email: [your-email]
 
 **Happy Text Analysis!** 📖🔍
