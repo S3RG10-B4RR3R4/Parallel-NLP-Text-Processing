@@ -154,11 +154,4 @@ graph TD
 - Visualization enhancements
 - Error handling improvements
 
-
-## 🙏 Acknowledgments
-- Project Gutenberg
-- NLTK Community
-- Python Open Source Community
-
-
 **Happy Text Analysis!** 📖🔍
